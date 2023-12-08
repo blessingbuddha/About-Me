@@ -46,7 +46,8 @@ ___
 | Name | Email   |
 | ---   | --- | 
 | Freddie Vo | fredvo67@gmail.com   |
-[Freddie's LinkedIn Profile][LinkedIn]
+[Freddie's LinkedIn Profile][LinkedIn] | [Freddie's Tableau Portfolio][Tableau]
 
 [LinkedIn]: https://www.linkedin.com/in/fred-vo-7bb80a147
+[Tableau]: https://public.tableau.com/app/profile/fred.vo8880/vizzes
 
